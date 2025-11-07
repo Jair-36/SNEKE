@@ -18,18 +18,18 @@ clock = pygame.time.Clock()
 # TODO: make a variable (constant) named SNAKE_SIZE and initialized to 20
 
 # TODO: make a variable need heaD_X and assign half of the WINDOW_WIDTH to it. use integer division // (i.e. 11//2 is 5)
-# TODO: make a variable need head_y and assign half of the WINDOW_HEIGHT + 100 to it. use integer division //
+# TODO: make a variable need head_y and assign half of the WINDOW_HEIGHT + 100 to it. use integer division // head_y
 
-# TODO: make a variable named snake _dx and assign 0 to it
-# TODO: repeat for a variable named snake_dy
+# TODO: make a variable named snake _dx and assign 0 to it snake = 0
+# TODO: repeat for a variable named snake_dy Snake_dy
 
-# TODO : make a variable named score and assign 0 to it.
+# TODO : make a variable named score and assign 0 to it. score = 0
 
 # Set colors
 GREEN = (0, 255, 0) # (r, g, b)
 # TODO: make a DARKGREEN color with rgb(!)< 50, 10)
 # TODO: make a RED RED = (255, 0, 0)
-# TODO: make a DARKGREEN with rgb of (150, 0, 0) DARKGREEN = (0, 0, 0)
+# TODO: make a DARKRED with rgb of (150, 0, 0)  DARKRED = (255, 0, 0)
 # TODO: make a WHITE WHITE = (255, 255, 255)
 # Set fonts
 
